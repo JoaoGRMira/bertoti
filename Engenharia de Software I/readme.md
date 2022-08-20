@@ -7,4 +7,5 @@ Titus Winters, Software Engineering at Google
 <br>
 
 <b>O que é um trade-off na escolha das ferramentas utilizadas no API?</b> <br>
-
+Trade-off trata-se de um termo utilizado para definir a decisão que um indivíduo deve tomar ao escolher uma opção, deixando uma outra de lado. Essa decisão se dá através da análise das opções, sejam elas ferramentas ou aplicações, onde necessidades são colocadas em discussão para que um consenso seja alcançado pelo usuário, definindo qual opção traz mais vantagens em cada situação. No geral, durante essas discussões são priorizadas a acessibilidade, disponibilidade, usabilidade, custos e eficiência de uma opção quando comparada à outra em determinada aplicação. <br>
+Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Projeto Integrador, uma vez que, dentro da área de TI, há uma infinidade de ferramentas que podem ser utilizadas para a execução do projeto em questão. Para isso, é levado em consideração o que leva uma ferramenta ser mais favorável ao uso do que outra, de acordo com a necessidade do desenvolvedor. Toda tecnologia tem seus pontos positivos e negativos, e esses podem variar de acordo com a aplicação em que será utilizada, logo, uma tecnologia pode ter mais utilidade em uma área do que outra, bastando ao usuário realizar a análise do que pode ser mais vantajoso para tal exigência.
