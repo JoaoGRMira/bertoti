@@ -30,7 +30,9 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 <br>
 <b>Não-funcionais:</b>
 <ul>
-<li>
-
+  <li> Possibilidade de cadastrar novas digitais no sistema;
+  <li> Armazenamento de digitais;
+  <li> Relacionamento entre salas e nível de acesso de cada usuário à elas;
+  <li> 
 </ul>
 
