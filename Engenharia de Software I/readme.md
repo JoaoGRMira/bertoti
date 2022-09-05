@@ -33,6 +33,12 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
   <li> Possibilidade de cadastrar novas digitais no sistema;
   <li> Armazenamento de digitais;
   <li> Relacionamento entre salas e nível de acesso de cada usuário à elas;
-  <li> 
 </ul>
 
+<h2>Diagrama de Casos de Uso</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/diagrama-casos-uso-biometria-fundo.png" alt="Diagrama de Casos de Uso">
+
+<br>
+
+<h2>Diagrama de Classe UML</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/diagrama-classe-biometria-fundo.png" alt="Diagrama de Classe UML">
