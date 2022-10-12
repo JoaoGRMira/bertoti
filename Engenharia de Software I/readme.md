@@ -42,3 +42,7 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 
 <h2>Diagrama de Classe UML</h2>
 <img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/Diagrama%20de%20Classe%20UML%20-%20Sistema%20de%20Controle.png" alt="Diagrama de Classe UML">
+
+<br>
+
+<h2>Código (Java)</h2>
