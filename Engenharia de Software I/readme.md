@@ -43,3 +43,6 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 
 <h3>Código (Java)</h3>
 https://github.com/JoaoGRMira/bertoti/tree/main/Engenharia%20de%20Software%20I/ControleAcessoBertoti
+
+<h3>Banco de dados (MySQL)</h3>
+https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/bdBancoBertoti.sql
