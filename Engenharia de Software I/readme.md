@@ -41,7 +41,7 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 <br>
 
 <h3>Diagrama de Classe UML</h3>
-<img src="">
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/Diagrama%20de%20Classe%20UML%20-%20Sistema%20de%20Controle.png">
 
 <br>
 
