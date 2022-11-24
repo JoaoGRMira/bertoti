@@ -21,18 +21,14 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 <h3>Sistema de Controle de Acesso com Sensor Biométrico</h3>
 <b>Funcionais:</b>
 <ul>
-  <li> O usuário pode cadastrar sua digital no sistema através do sensor;
-  <li> O usuário insere sua digital no sensor biométrico;
-  <li> O sistema confere se a digital está cadastrada;
-  <li> Se a digital estiver cadastrada, o usuário insere o número da porta que deseja abrir;
-  <li> Se o usuário tiver acesso, a porta é aberta;
+  <li> O usuário realiza seu cadastro com seu nome, rg, sala que deseja acessar, e biometria;
+  <li> O sistema confere se o usuário está cadastrado;
+  <li> Se o usuário tiver acesso, o acesso é liberado;
 </ul>
 <br>
 <b>Não-funcionais:</b>
 <ul>
-  <li> Possibilidade de cadastrar novas digitais no sistema;
-  <li> Armazenamento de digitais;
-  <li> Relacionamento entre salas e nível de acesso de cada usuário à elas;
+  <li> Armazenamento de usuários;
 </ul>
 
 <h3>Diagrama de Casos de Uso</h3>
@@ -46,4 +42,4 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 <br>
 
 <h3>Código (Java)</h3>
-
+https://github.com/JoaoGRMira/bertoti/tree/main/Engenharia%20de%20Software%20I/ControleAcessoBertoti
