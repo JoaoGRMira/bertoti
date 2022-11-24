@@ -36,7 +36,7 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 </ul>
 
 <h3>Diagrama de Casos de Uso</h3>
-<img src="" alt="Diagrama de Casos de Uso">
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/Diagrama%20de%20caso%20de%20uso%20-%20Sistema%20de%20Controle%20de%20Acesso.png" alt="Diagrama de Casos de Uso">
 
 <br>
 
