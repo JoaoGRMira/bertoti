@@ -41,7 +41,7 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 
 <br>
 
-<h3>Projeto</h3>
+<h2>Projeto</h2>
 <h3>Classe Usuário</h3>
 <img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/ClasseUsuario.png">
 
