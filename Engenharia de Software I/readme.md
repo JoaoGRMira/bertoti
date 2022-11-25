@@ -41,7 +41,20 @@ Sendo assim, podemos aplicar essa estratégia durante o desenvolvimento do Proje
 
 <br>
 
-<h3>Código (Java)</h3>
+<h3>Projeto</h3>
+<h2>Classe Usuário</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/ClasseUsuario.png">
+
+<h2>Classe Usuário DAO</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/ClasseUserDAO.png">
+
+<h2>Interface de Cadastro</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/InterfaceAcesso.png">
+
+<h2>Interface de Acesso</h2>
+<img src="https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20I/InterfaceAcesso.png">
+
+<h3>Projeto Netbeans</h3>
 https://github.com/JoaoGRMira/bertoti/tree/main/Engenharia%20de%20Software%20I/ControleAcessoBertoti
 
 <h3>Banco de dados (MySQL)</h3>
