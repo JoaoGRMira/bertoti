@@ -1,8 +1,8 @@
-# MVC
+# MVC + Facade + Singleton
 
 ## Diagrama
 
-![MVC](https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20III/MVC/images/MVC.png)
+![MVC + Facade + Singleton](https://github.com/JoaoGRMira/bertoti/blob/main/Engenharia%20de%20Software%20III/MVC%20%2B%20Facade%20%2B%20Singleton/images/MVC%2BFacade%2BSingleton.png)
 
 ## Código
 
@@ -121,5 +121,43 @@ public class View implements Observer{
   public void update(List<Assinatura> l){
     this.assinaturas = l;
   }
+}
+```
+
+```java
+import java.util.List;
+
+class Singleton implements Streaming {
+    private String assinante;
+
+    public Singleton(String assinante) {
+        this.assinante = assinante;
+    }
+
+    public void update(Assinatura assinaturas) {
+        System.out.println("A lista de assinaturas foi atualizada");      
+    }
+}
+```
+
+```java
+import java.util.List;
+
+public class Facade {
+    private Streaming streaming;
+    private View view;
+
+    public Facade() {
+        this.streaming = new Plano();
+        this.view = new View(streaming);
+    }
+
+    public List<Assinatura> assinarPlano() {
+        return streaming.assinaturas();
+    }
+
+    public List<Assinatura> setPlano() {
+        return streaming.assinaturas();
+    }
 }
 ```
